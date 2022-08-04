@@ -1,4 +1,4 @@
-# <div align="center">Las 7 y media en Javascript - Dia 2 </div>  
+# <div align="center">Las 7 y media en Javascript - Dia 4 </div>  
 
 Vamos a crear las 7 y media, juego facilito de crear.
   
